@@ -116,5 +116,23 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    content: Approaching this project, I had assumed that the proximity of Tacoma
+      and the neighboring Puyallup Reservation would make some amount of visual documentation
+      inevitable. What I found was that the Richards Studio produced many more examples
+      of Caucasian people in Native American dress than actual Indigenous communities.
+      That said, one example of Native Americans in the Richards Collection felt significant.
+    headline: ''
+    slug: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 
 ---
