@@ -53,6 +53,8 @@ page_sections:
   col_3:
     headline: ''
     slug: ''
-    content: ''
+    content: "<strong>That said, the significance of these photos extend beyond the
+      backgrounds of the people occupying the frame and tell a much broader story
+      about the evolving social fabric of Tacoma in the twentieth century.</strong>"
 
 ---
