@@ -140,6 +140,9 @@ page_sections:
   col_3:
     headline: ''
     slug: ''
-    content: ''
+    content: Though this interpretation is vulnerable to my own projection, the public
+      setting, mixed genders and diverse backgrounds of the group may help add nuance
+      to our understanding of reconciliation efforts and the social mindset of fraternal
+      organizations like the VFW in midcentury Tacoma.
 
 ---
