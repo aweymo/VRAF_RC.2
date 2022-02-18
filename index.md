@@ -104,5 +104,17 @@ page_sections:
       that might have resulted in legal repercussions, it's unlikely that the Richards'
       Studio photographers would be using them in the extensive marketing photos which
       they produced for industrial firms during this period.
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2022/02/18/2022/02/18/rso-28-1.jpeg"
+  image:
+    image: ''
+    alt_text: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 
 ---
