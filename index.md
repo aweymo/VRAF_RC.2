@@ -217,5 +217,13 @@ page_sections:
     content: The latter format required joining the two images together into a high
       resolution GIF, to recreate the 3D effect one would have originally experienced
       through a custom Kodak viewer.
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2022/02/18/2022/02/18/rss-052-01.gif"
+    caption: ''
+  image_2:
+    image: ''
+    caption: ''
 
 ---
