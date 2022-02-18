@@ -202,5 +202,18 @@ page_sections:
   image_2:
     image: "/uploads/2022/02/18/2022/02/18/rss-03-01.gif"
     caption: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    content: I made the most progress with unconventional photographic formats. These
+      included oversized panorama film prints, which the studio often used for group
+      photos, and Kodachrome Stereo Transparencies, which were used only briefly in
+      the mid-1950s to document weddings and public events.
+    headline: ''
+    slug: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
 
 ---
