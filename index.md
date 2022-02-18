@@ -214,6 +214,8 @@ page_sections:
   col_2:
     headline: ''
     slug: ''
-    content: ''
+    content: The latter format required joining the two images together into a high
+      resolution GIF, to recreate the 3D effect one would have originally experienced
+      through a custom Kodak viewer.
 
 ---
