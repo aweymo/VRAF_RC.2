@@ -15,7 +15,7 @@ sections:
   path: _config.yml
   label: Config
 upload_dir: uploads
-public_path: VRAF_RC.2/uploads/2022/02/18
+public_path: "/uploads/2022/02/18"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":year:/:month:/:day:/:filename:"
