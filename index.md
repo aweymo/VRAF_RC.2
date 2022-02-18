@@ -225,5 +225,17 @@ page_sections:
   image_2:
     image: "/uploads/2022/02/18/2022/02/18/rss-046-01.gif"
     caption: ''
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2022/02/18/2022/02/18/rss-126-01.gif"
+  headline: "<strong>Wedding Photos</strong>"
+  image:
+    image: ''
+    alt_text: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 
 ---
