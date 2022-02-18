@@ -81,5 +81,10 @@ page_sections:
       title="BIPOC Representation Map">BIPOC Representation Map</a>
     headline: ''
     slug: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2022/02/18/2022/02/18/j-156-38032-1.jpeg"
+  slug: ''
+  caption: ''
 
 ---
