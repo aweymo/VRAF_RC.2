@@ -100,6 +100,9 @@ page_sections:
   col_2:
     headline: ''
     slug: ''
-    content: ''
+    content: If African American workers were consistently given dangerous positions
+      that might have resulted in legal repercussions, it's unlikely that the Richards'
+      Studio photographers would be using them in the extensive marketing photos which
+      they produced for industrial firms during this period.
 
 ---
