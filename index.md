@@ -173,6 +173,14 @@ page_sections:
   col_2:
     headline: ''
     slug: ''
-    content: ''
+    content: This photo, taken two months before the Pearl Harbor attacks, documents
+      an event the Puyallup Valley Chapter of the Japanese American Citizens League
+      hosted in support of National Defense Week to help unify efforts between the
+      250 Nisei (second generation) soldiers active at the Fort Lewis Army base and
+      Caucasian soldiers. The evening included an informal dinner with Issei (first
+      generation) family members, dancing and singing the American national anthem.
+      The photo captures the relationship of the Japanese American community and their
+      embeddedness within the US military and the Puget Sound before WWII and later
+      incarceration.
 
 ---
