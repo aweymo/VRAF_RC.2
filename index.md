@@ -56,5 +56,30 @@ page_sections:
     content: "<strong>That said, the significance of these photos extend beyond the
       backgrounds of the people occupying the frame and tell a much broader story
       about the evolving social fabric of Tacoma in the twentieth century.</strong>"
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2022/02/18/2022/02/18/nv1-01.gif"
+    caption: ''
+  image_2:
+    image: "/uploads/2022/02/18/2022/02/18/nv2-01-01.gif"
+    caption: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    content: Determining this involved creating visualizations of the items that had
+      been digitized, as well as visualizations of the largest gaps in the collection,
+      to pinpoint where to investigate. Using these guides, I was able to determine
+      the pockets were generally duplicate photos of an item which had already been
+      digitized, or an item which held little contextual value for most patrons.
+    headline: ''
+    slug: ''
+  col_2:
+    content: Explore these interactive network visualizations<br><br><a href="https://aweymo.gitHub.io/RC.3/"
+      title="Digitized Items">Digitized Items</a><br><a href="https://aweymo.gitHub.io/gaps.6/#"
+      title="Collection Gaps">Collection Gaps</a><br><a href="https://aweymo.github.io/Rep.Network.1/"
+      title="BIPOC Representation Map">BIPOC Representation Map</a>
+    headline: ''
+    slug: ''
 
 ---
