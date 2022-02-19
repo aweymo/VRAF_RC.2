@@ -112,7 +112,7 @@ page_sections:
       into a vault where it will be treated with arsenic to prevent rot. Even considering
       the early state of workplace safety in 1940, this photo illustrates how African
       American laborers were regarded in midcentury Tacoma, and may also provide some
-      insight into the scarcity of representation within the Richards' collection"
+      insight into the scarcity of representation within the Richards' collection."
     headline: ''
     slug: ''
   col_2:
