@@ -18,7 +18,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2022/02/18/rss-051-01.gif"
-  headline: ''
+  headline: "<strong>In September 2021,</strong>"
   content: ''
   image:
     image: ''
