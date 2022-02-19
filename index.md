@@ -52,8 +52,8 @@ page_sections:
   block: three-column-1
   col_1:
     headline: ''
-    content: "<strong>Of the 258 items which were selected to be arranged, digitized
-      and described, 39 represented these communities.</strong>"
+    content: Of the <strong>258 </strong>items which were selected to be arranged,
+      digitized and described,<strong> 39 </strong>represented these communities.
     slug: ''
   col_2:
     headline: ''
