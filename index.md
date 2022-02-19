@@ -356,9 +356,9 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   image:
-    image: uploads/uploads/2022/02/18/aweymouth.png
+    image: ''
     alt_text: ''
-  background_image: ''
+  background_image: uploads/uploads/2022/02/18/aweymouth.png
   headline: "<strong>About<br>the author</strong>"
   content: 'Andrew Weymouth is an archivist, exhibit designer and writer working in
     Tacoma, WA, currently completing an MLIS degree from the University of Washington.
