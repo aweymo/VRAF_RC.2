@@ -30,19 +30,23 @@ page_sections:
 - template: 2-column-text
   block: two-column-1
   col_1:
-    content: <strong>In September 2021, </strong>I was awarded a grant from the Visual
-      Resources Association Foundation to partner with the Tacoma Public Library's
-      Northwest Room, to help digitize the 500,000+ item Richards Collection, a repository
-      of the commercial photography studio active in the Puget Sound <span class="s1">from</span>
-      1921 to 1980. The goal of the grant was to help digitize what was regarded as
-      a "dark archive," and focus on better representing Tacoma's historical BIPOC
-      community.
-    headline: ''
+    content: I was awarded a grant from the Visual Resources Association Foundation
+      to partner with the Tacoma Public Library's Northwest Room, to help digitize
+      the 500,000+ item Richards Collection, a repository of the commercial photography
+      studio active in the Puget Sound <span class="s1">from</span> 1921 to 1980.
+      The goal of the grant was to help digitize what was regarded as a "dark archive,"
+      and focus on better representing Tacoma's historical BIPOC community.
+    headline: In September 2021,
     slug: ''
   col_2:
     headline: ''
     slug: ''
-    content: ''
+    content: Through a collaborative effort with Northwest Room librarian and project
+      sponsor Spencer Bowman, we ultimately found that the collection was not so much
+      "dark," as past digitization efforts were scattered, archiving practices were
+      inconsistent, and the inherent nature of Richards' practice created a large
+      amount of material which provided little contextual information for potential
+      users.
 - template: 3-column-text
   block: three-column-1
   col_1:
