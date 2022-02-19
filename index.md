@@ -308,7 +308,23 @@ page_sections:
   col_2:
     headline: ''
     slug: ''
-    content: ''
+    content: "<em>RSO-40<br></em>Overhead Shot of the members of the Puyallup Valley
+      Japanese Americans Club arm in arms with Caucasian soldiers in an auditorium
+      as the Brad Banner band plays on stage.<br><br><em>RSS-57<br></em>Float for
+      Pacific Lutheran College with participants smiling below a representation of
+      palm trees at the 1954 Daffodil Parade.<em><br><br>RSS-03<br></em>Unidentified
+      float in the 1956 Daffodil Parade on Pacific Avenue with North Pacific Plywood
+      Inc. building and water tower in the background. The float depicts a mountain
+      made out of daffodils, a sheet for the snowcap and green crepe paper grass.
+      There is a Paul Bunyan character skiing down the mountain with a beard and a
+      red cap.<em><br><br>RSS-12<br></em>An unidentified float carrying five waving
+      people in swim suits in the 1956 Daffodil Parade on Pacific Avenue with North
+      Pacific Plywood Inc. building and water tower in the background.<br><br>RSS-52<br>Float
+      for Tacoma Public Utilities with Daffodil Queen and other participants at the
+      1954 Daffodil Parade. A Macy's building with a Coca-Cola painted sign can be
+      seen in the background along with a crowd on the roof of The Music Shop and
+      a Jeweler with an obscured name.<br><br>RSS-46<br>Float for the Tacoma Group
+      of Pacific Reserve Fleets U.S. Naval Station depicting Mount Rainier"
   col_3:
     headline: ''
     slug: ''
