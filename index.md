@@ -353,5 +353,17 @@ page_sections:
     exhibit designer and writer working in Tacoma, WA, currently completing an MLIS
     degree from the University of Washington. <br><br>Access Portfolio, CV and prior
     work <a href="" title="">here</a><br><br>or reach out directly: <br><br>andrewrainsweymouth@gmail.com'
+- template: hero-banner-w-image
+  block: hero-2
+  image:
+    image: uploads/uploads/2022/02/18/aweymouth.png
+    alt_text: ''
+  background_image: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 
 ---
