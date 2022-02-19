@@ -58,15 +58,15 @@ page_sections:
   col_2:
     headline: ''
     slug: ''
-    content: "<strong>While this number feels minuscule in comparison with the relative
-      size of the collection, it represents a 60% increase in BIPOC representation
-      from the state of the collection when I began this work in September.</strong>"
+    content: While this number feels minuscule in comparison with the relative size
+      of the collection, it represents a <strong>60% increase in BIPOC representation
+      </strong>from the state of the collection when I began this work in September.
   col_3:
     headline: ''
     slug: ''
-    content: "<strong>That said, the significance of these photos extend beyond the
-      backgrounds of the people occupying the frame and tell a much broader story
-      about the evolving social fabric of Tacoma in the twentieth century.</strong>"
+    content: That said, the significance of these photos extend beyond the backgrounds
+      of the people occupying the frame and tell a much broader story about the evolving
+      social fabric of Tacoma in the twentieth century.
 - template: 2-column-media-element
   block: media-2
   image_1:
