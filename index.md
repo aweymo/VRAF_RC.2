@@ -263,6 +263,9 @@ page_sections:
   col_3:
     headline: ''
     slug: ''
-    content: ''
+    content: I<span class="s1">n contrast to previous examples, these photos are documenting
+      a culture independent from the context of struggle and racism. The formal dress,
+      ornamental arrangements and social ceremonies provide a unique insight into
+      a resilient, joyful community, still thriving in the Pacific Northwest.</span>
 
 ---
