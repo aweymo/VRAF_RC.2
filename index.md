@@ -306,16 +306,19 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: 1-column-text
-  block: one-column-1
-  content: "<strong>Reflecting on this project,</strong> I am grateful for the opportunity
-    to interact with the very talented and insightful staff of the Northwest Room.
-    Being able to learn from and collaborate with this group in person during the
-    pandemic has been an incredibly special archive experience, and I am deeply indebted
-    to the Visual Resources Association Foundation for connecting me with this institution,
-    and hopefully contributing over time to the greater Tacoma community."
-  headline: ''
-  slug: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    content: "<strong>Reflecting on this project,</strong> I am grateful for the opportunity
+      to interact with the very talented and insightful staff of the Northwest Room.
+      Being able to learn from and collaborate with this group in person during the
+      pandemic has been an incredibly special archive experience"
+    headline: ''
+    slug: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
