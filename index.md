@@ -215,9 +215,10 @@ page_sections:
   col_2:
     headline: ''
     slug: ''
-    content: The latter format required joining the two images together into a high
-      resolution GIF, to recreate the 3D effect one would have originally experienced
-      through a custom Kodak viewer.
+    content: The latter required scanning each item's two images at a very high resolution,
+      then joining the images in Photoshop and fading from one another in a GIF file
+      to recreate the 3D effect one would have originally experienced through a custom
+      Kodak viewer.
 - template: 2-column-media-element
   block: media-2
   image_1:
