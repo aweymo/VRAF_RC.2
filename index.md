@@ -353,7 +353,7 @@ page_sections:
       1954 Daffodil Parade. A Macy's building with a Coca-Cola painted sign can be
       seen in the background along with a crowd on the roof of The Music Shop and
       a Jeweler with an obscured name.<br><br>RSS-46<br>Float for the Tacoma Group
-      of Pacific Reserve Fleets U.S. Naval Station depicting Mount Rainier"
+      of Pacific Reserve Fleets U.S. Naval Station depicting Mount Rainier."
   col_3:
     headline: ''
     slug: ''
