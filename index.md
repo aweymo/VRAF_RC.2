@@ -267,5 +267,13 @@ page_sections:
       a culture independent from the context of struggle and racism. The formal dress,
       ornamental arrangements and social ceremonies provide a unique insight into
       a resilient, joyful community, still thriving in the Pacific Northwest.</span>
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2022/02/18/2022/02/18/rss-094-01.gif"
+    caption: ''
+  image_2:
+    image: ''
+    caption: ''
 
 ---
