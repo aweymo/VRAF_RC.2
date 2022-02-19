@@ -302,7 +302,9 @@ page_sections:
       American laborer seen in front of what appears to be a large, sealable container
       for treating lumber with arsenic to prevent rot.<br><em><br>RSO-28<br></em>Native
       American and European Americans posing at Owens beach in informal as well as
-      traditional dress."
+      traditional dress.<br><br><em>RSO-40<br></em>Overhead Shot of the members of
+      the Puyallup Valley Japanese Americans Club arm in arms with Caucasian soldiers
+      in an auditorium as the Brad Banner band plays on stage."
     headline: ''
     slug: ''
   col_2:
