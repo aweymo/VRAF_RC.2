@@ -352,6 +352,6 @@ page_sections:
   content: '<strong>About the Author:<br></strong><br>Andrew Weymouth is an archivist,
     exhibit designer and writer working in Tacoma, WA, currently completing an MLIS
     degree from the University of Washington. <br><br>Access Portfolio, CV and prior
-    work <a href="" title="">here</a><br><br>or reach out directly: <br><br>andrewrainsweymouth@gmail.com<br>aweymo@uw.edu'
+    work <a href="" title="">here</a><br><br>or reach out directly: <br><br>andrewrainsweymouth@gmail.com'
 
 ---
