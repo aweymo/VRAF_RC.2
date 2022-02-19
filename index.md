@@ -90,12 +90,12 @@ page_sections:
 - template: 2-column-text
   block: two-column-1
   col_1:
-    content: J-156-38, the only picture of an African American laborer I was able
-      to locate in the entire collection, portrays a worker securing lumber into a
-      vault where it will be treated with arsenic to prevent rot. Even considering
+    content: "<em>J-156-38</em>, the only picture of an African American laborer I
+      was able to locate in the entire collection, portrays a worker securing lumber
+      into a vault where it will be treated with arsenic to prevent rot. Even considering
       the early state of workplace safety in 1940, this photo illustrates how African
       American laborers were regarded in midcentury Tacoma, and may also provide some
-      insight into the scarcity of representation within the Richards' collection
+      insight into the scarcity of representation within the Richards' collection"
     headline: ''
     slug: ''
   col_2:
