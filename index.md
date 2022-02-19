@@ -36,7 +36,7 @@ page_sections:
       studio active in the Puget Sound <span class="s1">from</span> 1921 to 1980.
       The goal of the grant was to help digitize what was regarded as a "dark archive,"
       and focus on better representing Tacoma's historical BIPOC community.
-    headline: In September 2021,
+    headline: ''
     slug: ''
   col_2:
     headline: ''
