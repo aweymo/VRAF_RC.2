@@ -106,7 +106,7 @@ page_sections:
       they produced for industrial firms during this period.
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/2022/02/18/2022/02/18/rso-28-1.jpeg"
+  background_image: uploads/2022/02/18/rso-28-1.jpeg
   image:
     image: ''
     alt_text: ''
