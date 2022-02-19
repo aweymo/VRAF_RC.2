@@ -75,11 +75,12 @@ page_sections:
     headline: ''
     slug: ''
   col_2:
-    content: <strong>these interactive network visualizations</strong><br><br><a href="https://aweymo.gitHub.io/RC.3/"
-      title="Digitized Items">Digitized Items</a><br><a href="https://aweymo.gitHub.io/gaps.6/#"
-      title="Collection Gaps">Collection Gaps</a><br><a href="https://aweymo.github.io/Rep.Network.1/"
-      title="BIPOC Representation Map">BIPOC Representation Map</a>
-    headline: Explore
+    content: <strong>Explore these interactive network visualizations</strong><br><br><a
+      href="https://aweymo.gitHub.io/RC.3/" title="Digitized Items">Digitized Items</a><br><a
+      href="https://aweymo.gitHub.io/gaps.6/#" title="Collection Gaps">Collection
+      Gaps</a><br><a href="https://aweymo.github.io/Rep.Network.1/" title="BIPOC Representation
+      Map">BIPOC Representation Map</a>
+    headline: ''
     slug: ''
 - template: full-width-media-element
   block: media-1
