@@ -347,5 +347,11 @@ page_sections:
       on the antenna.<br><br>RSS-111<em><br></em>Overhead shot of the Boitono-Ennis
       wedding showing bride and groom interacting with attendees on a street with
       bridesmaids."
+- template: simple-footer
+  block: footer-1
+  content: '<strong>About the Author:<br></strong><br>Andrew Weymouth is an archivist,
+    exhibit designer and writer working in Tacoma, WA, currently completing an MLIS
+    degree from the University of Washington. <br><br>Access Portfolio, CV and prior
+    work <a href="" title="">here</a><br><br>or reach out directly: <br><br>andrewrainsweymouth@gmail.com<br>aweymo@uw.edu'
 
 ---
