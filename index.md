@@ -130,13 +130,13 @@ page_sections:
   col_2:
     headline: ''
     slug: ''
-    content: In RSO-28, a group which appears to be wearing Veteran of Foreign Wars
-      (VFW) garrison hats and casual clothing stand alongside their wives and children
-      and a Native American family in traditional dress on Owens Beach, a popular
-      Tacoma park overlooking the Puget Sound.<br><br>While no context was included
-      with this material and the Native American family is 'othered' through their
-      differing dress and placement at the front of the group, the tone of the photo
-      reads more like an effort of reconciliation than exploitation, with audience
+    content: In <em>RSO-28</em>, a group which appears to be wearing Veteran of Foreign
+      Wars (VFW) garrison hats and casual clothing stand alongside their wives and
+      children and a Native American family in traditional dress on Owens Beach, a
+      popular Tacoma park overlooking the Puget Sound.<br><br>While no context was
+      included with this material and the Native American family is 'othered' through
+      their differing dress and placement at the front of the group, the tone of the
+      photo reads more like an effort of reconciliation than exploitation, with audience
       expressions ranging from cordial smiles to a respectful solemnity.
   col_3:
     headline: ''
