@@ -308,11 +308,8 @@ page_sections:
   col_2:
     headline: ''
     slug: ''
-    content: "<em>RSO-40<br></em>Overhead Shot of the members of the Puyallup Valley
-      Japanese Americans Club arm in arms with Caucasian soldiers in an auditorium
-      as the Brad Banner band plays on stage.<br><br><em>RSS-57<br></em>Float for
-      Pacific Lutheran College with participants smiling below a representation of
-      palm trees at the 1954 Daffodil Parade.<em><br><br>RSS-03<br></em>Unidentified
+    content: "<em>RSS-57<br></em>Float for Pacific Lutheran College with participants
+      smiling below a representation of palm trees at the 1954 Daffodil Parade.<em><br><br>RSS-03<br></em>Unidentified
       float in the 1956 Daffodil Parade on Pacific Avenue with North Pacific Plywood
       Inc. building and water tower in the background. The float depicts a mountain
       made out of daffodils, a sheet for the snowcap and green crepe paper grass.
