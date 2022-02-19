@@ -319,9 +319,9 @@ page_sections:
   col_2:
     headline: ''
     slug: ''
-    content: "<strong>and I am deeply indebted to the Visual Resources Association
-      Foundation for connecting me with this institution, and hopefully contributing
-      over time to the greater Tacoma community.</strong>"
+    content: and I am deeply indebted to the Visual Resources Association Foundation
+      for connecting me with this institution, and hopefully contributing over time
+      to the greater Tacoma community.
 - template: 3-column-text
   block: three-column-1
   col_1:
