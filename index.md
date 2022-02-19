@@ -298,12 +298,7 @@ page_sections:
   block: hero-2
   background_image: uploads/2022/02/18/rss-111-01.gif
   headline: "<strong>Conclusion</strong>"
-  content: Reflecting on this project, I am grateful for the opportunity to interact
-    with the very talented and insightful staff of the Northwest Room. Being able
-    to learn from and collaborate with this group in person during the pandemic has
-    been an incredibly special archive experience, and I am deeply indebted to the
-    Visual Resources Association Foundation for connecting me with this institution,
-    and hopefully contributing over time to the greater Tacoma community.
+  content: ''
   image:
     image: ''
     alt_text: ''
