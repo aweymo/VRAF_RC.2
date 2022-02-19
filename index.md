@@ -310,10 +310,10 @@ page_sections:
 - template: 2-column-text
   block: two-column-1
   col_1:
-    content: "<strong>Reflecting on this project,</strong> <strong>I am grateful for
-      the opportunity to interact with the very talented and insightful staff of the
-      Northwest Room. Being able to learn from and collaborate with this group in
-      person during the pandemic has been an incredibly special archive experience</strong>"
+    content: "<strong>Reflecting on this project,</strong> I am grateful for the opportunity
+      to interact with the very talented and insightful staff of the Northwest Room.
+      Being able to learn from and collaborate with this group in person during the
+      pandemic has been an incredibly special archive experience"
     headline: ''
     slug: ''
   col_2:
