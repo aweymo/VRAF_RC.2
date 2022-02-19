@@ -163,12 +163,12 @@ page_sections:
     content: These themes of outreach are plain in perhaps the most historically significant
       photograph I discovered in the collection, and the only item which included
       an archival description written by Bob Richards. The note adhered onto the back
-      of <em>RSO-40</em> in type-written paper begins:<br><br>"Marching forward, arm
-      in arm with their fellow young Americans are girls of the Tacoma and Puyallup
+      of <em>RSO-40</em> in type-written paper begins:<br><br><em>"Marching forward,
+      arm in arm with their fellow young Americans are girls of the Tacoma and Puyallup
       Valley Japanese American Citizens League, a substantial part of the national
       Nisei soldiers and white boys of the same companies, at the wind-up of the grand
       march as they danced in Tacoma's Odd Fellows Hall. Americans all -- and no doubt
-      of it."
+      of it."</em>
     headline: ''
     slug: ''
   col_2:
