@@ -77,7 +77,7 @@ page_sections:
     image: uploads/uploads/2022/02/18/vis-1.jpeg
     caption: ''
   image_2:
-    image: uploads/2022/02/18/nv3-01.gif
+    image: uploads/uploads/2022/02/18/vis-2.jpeg
     caption: ''
 - template: 2-column-text
   block: two-column-1
