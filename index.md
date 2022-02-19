@@ -227,7 +227,7 @@ page_sections:
     caption: ''
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/2022/02/18/2022/02/18/rss-126-01.gif"
+  background_image: uploads/2022/02/18/rss-126-01.gif
   headline: "<strong>Wedding Photos</strong>"
   image:
     image: ''
