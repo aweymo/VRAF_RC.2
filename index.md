@@ -365,8 +365,8 @@ page_sections:
     <br><br>Access Portfolio, CV and prior work <a href="" title="">here</a><br><br>or
     reach out directly: <br><br>andrewrainsweymouth@gmail.com'
   cta:
-    enabled: false
-    url: ''
-    button_text: ''
+    enabled: true
+    url: http://a-rains.squarespace.com
+    button_text: Website
 
 ---
