@@ -240,7 +240,7 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2022/02/18/2022/02/18/rss-061-01.gif"
+    image: uploads/2022/02/18/rss-061-01.gif
     caption: ''
   image_2:
     image: "/uploads/2022/02/18/2022/02/18/rss-115-01.gif"
