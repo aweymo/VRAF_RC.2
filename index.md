@@ -245,5 +245,24 @@ page_sections:
   image_2:
     image: "/uploads/2022/02/18/2022/02/18/rss-115-01.gif"
     caption: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    content: Finally, I am so happy that I pursued the Kodachrome 3D wedding materials
+      in the Richards Collection. I was reluctant to look into it for the same reasons
+      as the Richards yearbook photos; uniformity is the primary intention.
+    headline: ''
+    slug: ''
+  col_2:
+    content: Midcentury wedding photos had very defined templates that the Richards
+      Studio catered to regardless of their clients or affiliated churches. That said,
+      the Japanese American weddings captured in the collection align most closely
+      to the material I hoped to promote with this grant project.
+    headline: ''
+    slug: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 
 ---
