@@ -273,7 +273,7 @@ page_sections:
     image: "/uploads/2022/02/18/2022/02/18/rss-094-01.gif"
     caption: ''
   image_2:
-    image: ''
+    image: "/uploads/2022/02/18/2022/02/18/rss-066-01.gif"
     caption: ''
 
 ---
