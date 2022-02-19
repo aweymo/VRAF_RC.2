@@ -62,7 +62,7 @@ page_sections:
     image: uploads/uploads/2022/02/18/vis-1.jpeg
     caption: ''
   image_2:
-    image: uploads/uploads/2022/02/18/vis-2.jpeg
+    image: ''
     caption: ''
 - template: 2-column-text
   block: two-column-1
@@ -201,6 +201,22 @@ page_sections:
     caption: ''
   image_2:
     image: uploads/2022/02/18/rss-03-01.gif
+    caption: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: ''
+    caption: ''
+  image_2:
+    image: ''
+    caption: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: ''
+    caption: ''
+  image_2:
+    image: ''
     caption: ''
 - template: 2-column-text
   block: two-column-1
