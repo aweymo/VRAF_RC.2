@@ -59,7 +59,7 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2022/02/18/2022/02/18/nv1-01.gif"
+    image: uploads/uploads/2022/02/18/vis-1.jpeg
     caption: ''
   image_2:
     image: "/uploads/2022/02/18/2022/02/18/nv2-01-01.gif"
