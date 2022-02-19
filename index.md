@@ -350,7 +350,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   image:
-    image: ''
+    image: uploads/uploads/2022/02/18/aweymouth.png
     alt_text: ''
   background_image: uploads/uploads/2022/02/18/aweymouth.png
   headline: "<strong>About<br>the author</strong>"
