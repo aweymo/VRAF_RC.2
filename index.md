@@ -277,7 +277,7 @@ page_sections:
     caption: ''
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/2022/02/18/2022/02/18/rss-111-01.gif"
+  background_image: uploads/2022/02/18/rss-111-01.gif
   headline: "<strong>Conclusion</strong>"
   content: Reflecting on this project, I am grateful for the opportunity to interact
     with the very talented and insightful staff of the Northwest Room. Being able
