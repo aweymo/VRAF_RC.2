@@ -328,6 +328,16 @@ page_sections:
   col_3:
     headline: ''
     slug: ''
-    content: ''
+    content: "<em>RSS-126<br></em>Bride and child at Yoshioka-Mizutani wedding holding
+      floral arrangements. Display of bananas, apples and oranges can be seen in background.<br><br>RSS-094<br>Lyons-Anderson
+      wedding photo with the couple posing inside of a car with a pinwheel spinner
+      on the antenna.<br><br>RSS-115<br>Yasuda-Miyamoto wedding photo of the couple
+      inside of a vehicle with plaid interior seating.<br><br>RSS-066<br>Paulson-Burns
+      wedding photo with attendees gathered around a table holding large punch bowls
+      and kransekake topped with Finnish and American flags.<br><br>RSS-094<br>Lyons-Anderson
+      wedding photo with the couple posing inside of a car with a pinwheel spinner
+      on the antenna.<br><br>RSS-111<em><br></em>Overhead shot of the Boitono-Ennis
+      wedding showing bride and groom interacting with attendees on a street with
+      bridesmaids."
 
 ---
