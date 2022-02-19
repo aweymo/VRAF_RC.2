@@ -74,7 +74,7 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: uploads/uploads/2022/02/18/vis-1.jpeg
+    image: uploads/uploads/2022/02/18/vis-2.jpeg
     caption: ''
   image_2:
     image: uploads/uploads/2022/02/18/vis-2.jpeg
