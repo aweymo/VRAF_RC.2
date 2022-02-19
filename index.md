@@ -248,7 +248,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   background_image: uploads/2022/02/18/rss-126-01.gif
-  headline: "<strong>Wedding <br>Photos</strong>"
+  headline: "<strong>Weddings<br></strong>"
   image:
     image: ''
     alt_text: ''
