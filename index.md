@@ -47,6 +47,11 @@ page_sections:
       inconsistent, and the inherent nature of Richards' practice created a large
       amount of material which provided little contextual information for potential
       users.
+- template: full-width-media-element
+  block: media-1
+  image: uploads/uploads/2022/02/18/vis-1.jpeg
+  slug: ''
+  caption: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
