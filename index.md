@@ -88,7 +88,7 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  headline: "<strong>Historical<br>Representation</strong>"
+  headline: ''
   content: ''
   cta:
     enabled: false
