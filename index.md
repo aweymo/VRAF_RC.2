@@ -15,18 +15,6 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: hero-banner-w-image
-  block: hero-2
-  background_image: "/uploads/2022/02/18/rss-051-01.gif"
-  headline: "<strong>In September 2021,</strong>"
-  content: ''
-  image:
-    image: ''
-    alt_text: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
 - template: 2-column-text
   block: two-column-1
   col_1:
@@ -47,6 +35,18 @@ page_sections:
       inconsistent, and the inherent nature of Richards' practice created a large
       amount of material which provided little contextual information for potential
       users.
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2022/02/18/rss-051-01.gif"
+  headline: "<strong>Impact</strong>"
+  content: ''
+  image:
+    image: ''
+    alt_text: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
