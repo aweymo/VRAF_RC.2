@@ -6,7 +6,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2022/02/18/rso-25-1.jpeg"
-  headline: "<strong>Andrew Weymouth<br>2021-2022<br>VRAF Grant Work</strong>"
+  headline: "<strong>Andrew Weymouth<br>VRAF Grant </strong>"
   image:
     image: ''
     alt_text: ''
