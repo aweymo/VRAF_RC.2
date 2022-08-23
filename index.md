@@ -381,7 +381,7 @@ page_sections:
     reach out directly: <br><br>andrewrainsweymouth@gmail.com'
   cta:
     enabled: true
-    url: http://a-rains.squarespace.com
+    url: http://aweymouth.squarespace.com
     button_text: Website
 
 ---
